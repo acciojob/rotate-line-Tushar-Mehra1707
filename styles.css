@@ -1,12 +1,12 @@
 /*  your css code here. If applicable */
 body{
 	margin:0;
-	height:100px;
+	height:100vh;
 	overflow:hidden;
 	background:#ffffff;
 }
 #line{
-	position:left;
+	position:absolute;
 	top:50%;
 	left:50%;
 	width:200px;
